@@ -207,3 +207,7 @@ button{font:inherit}
 .sample-media{background:linear-gradient(135deg,#202124,#111214)}
 .sample-media img{background:#202124;color:#d8d8d5}
 .sample-media img.image-fallback{visibility:hidden}
+
+
+/* Hide visible stock-source badges on gallery images. */
+.sample-stock{display:none!important}
